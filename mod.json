@@ -1,0 +1,9 @@
+{
+    "name":"toxodrip",
+    "displayName":"Toxodrip",
+    "description":"Big man doing big man things",
+    "author":"Goober",
+    "version":"69.420",
+    "minGameVersion":105,
+    "hidden":true
+}
